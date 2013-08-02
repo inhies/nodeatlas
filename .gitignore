@@ -3,6 +3,7 @@ nodeatlas
 
 # Configuration files
 conf.json
+development.json
 
 # Logs
 *.log
